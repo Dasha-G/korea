@@ -1,0 +1,9 @@
+h1 {
+    color:lightslategrey;
+    font-style:oblique;
+    margin-left: 600px;
+}
+p{
+    color: slategrey;
+    font-style: italic;
+}
